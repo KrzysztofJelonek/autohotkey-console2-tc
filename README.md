@@ -8,8 +8,9 @@ Requirements:
 Windows 10 64bit, Total Commander 9.10, Console2, Autohotkey
 
 ## Shortcuts:
+- WIN + ` (tilda) - show / hide Console2
 - Total Commander:
-  - CTRL + ` - open Console2 with current TC path
+  - CTRL + ` (tilda) - open Console2 with current TC path
   - WIN + A (in Console2) - paste current TC path
 - Windows Explorer
   - CTRL + ` - open Console2 with current Windows Explorer path
