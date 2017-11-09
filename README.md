@@ -16,12 +16,12 @@ Windows 10 64bit, Total Commander 9.10, Console2, Autohotkey
   - CTRL + ` - open Console2 with current Windows Explorer path
 
 ## Software
-- Console2: https://sourceforge.net/projects/console/files/latest/download?source=files
-- Autohotkey: https://autohotkey.com/ (1.1.26.01 - July 16, 2017)
+- Console2: https://sourceforge.net/projects/console/
+- Autohotkey: https://autohotkey.com/
 
 ## Configuration
-1. Install [Console2](https://sourceforge.net/projects/console/files/latest/download?source=files).
-2. Install [Autohotkey](https://autohotkey.com/download/).
+1. Install latest [Console2](https://sourceforge.net/projects/console/files/latest/download?source=files).
+2. Install latest [Autohotkey](https://autohotkey.com/download/).
 3. Copy console.xml to Console2 app directory.
 4. After download .ahk file, just edit constants (CONSOLE_APP_PATH change is required):
 ```
