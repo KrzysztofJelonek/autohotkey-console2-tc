@@ -5,7 +5,7 @@ Based on: http://www.instructables.com/id/%22Drop-Down%22%2c-Quake-style-command
 Modified version of [kosciak-autohotkey](https://code.google.com/archive/p/kosciak-autohotkey/).  
 
 Requirements:
-Windows 10 64bit, Total Commander 9.0a, Console2, Autohotkey
+Windows 10 64bit, Total Commander 9.10, Console2, Autohotkey
 
 ## Shortcuts:
 - Total Commander:
@@ -33,3 +33,6 @@ SetUp:
 return
 ```
 5. Run .ahk file
+
+## Warning
+**Supported version of Total Commander is: 9.10.**
