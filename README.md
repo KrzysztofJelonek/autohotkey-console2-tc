@@ -12,7 +12,7 @@ Windows 10 64bit, Total Commander 9.0a, Console2, Autohotkey
   - CTRL + ` - open Console2 with current TC path
   - WIN + A (in Console2) - paste current TC path
 - Window Explorer
-  - CTRL + ` - open Console2 with currewnt Explorer path
+  - CTRL + ` - open Console2 with current Windows Explorer path
 
 ## Software
 - Console2: https://sourceforge.net/projects/console/files/latest/download?source=files
