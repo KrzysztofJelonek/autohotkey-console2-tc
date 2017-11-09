@@ -4,7 +4,7 @@ Opens Console in a Quake style (at the top of the screen using Win+Tilda).
 Based on: http://www.instructables.com/id/%22Drop-Down%22%2c-Quake-style-command-prompt-for-Window/.  
 Modified version of [kosciak-autohotkey](https://code.google.com/archive/p/kosciak-autohotkey/).  
 
-Support:
+Requirements:
 Windows 10 64bit, Total Commander 9.0a, Console2, Autohotkey
 
 ## Shortcuts:
@@ -19,7 +19,10 @@ Windows 10 64bit, Total Commander 9.0a, Console2, Autohotkey
 - Autohotkey: https://autohotkey.com/ (1.1.26.01 - July 16, 2017)
 
 ## Configuration
-After download .ahk file, just edit constants:
+1. Install [Console2](https://sourceforge.net/projects/console/files/latest/download?source=files).
+2. Install [Autohotkey](https://autohotkey.com/download/).
+3. Copy console.xml to Console2 app directory.
+4. After download .ahk file, just edit constants (CONSOLE_APP_PATH change is required):
 ```
 SetUp:
 	DEFAULT_SLEEP = 0
@@ -29,3 +32,4 @@ SetUp:
 	CONSOLE_CONFIG := "console.xml"
 return
 ```
+5. Run .ahk file
